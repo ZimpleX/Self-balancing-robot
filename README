@@ -1,0 +1,8 @@
+Self-balancing robot project
+----------------------------------------------
+    This repo is ONLY containing source code for Arduino (UNO) micro-controller
+
+    Files:
+        --  SB_Main_Revised.ino is the central part for PID closed-loop controller
+        --  MPU6050 files are for the accelerometer and gyroscope (written by "Krodal" -- open source)
+    
